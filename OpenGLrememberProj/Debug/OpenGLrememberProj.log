@@ -1,0 +1,3 @@
+﻿  Render.cpp
+C:\Users\79800\Downloads\KG_3lab-main\OpenGLrememberProj\Render.cpp(122,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OpenGLrememberProj.vcxproj -> C:\Users\79800\Downloads\KG_3lab-main\Debug\OpenGLrememberProj.exe
